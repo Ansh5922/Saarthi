@@ -1,1 +1,0 @@
-print('kaise ho PC bhai?')
